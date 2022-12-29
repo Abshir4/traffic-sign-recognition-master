@@ -15,7 +15,6 @@ pip install -r requirements.txt
 ## Contributors
 We're a team of four people who worked on this project:
 - [Abshir](https://github.com/Abshir4)
-- [Andreas](https://github.com/AndreasEliasson91)
 - [Fredrik](https://github.com/Fredstrom)
 - [Kajsa](https://github.com/Ekajsa)
 <br /><br />
